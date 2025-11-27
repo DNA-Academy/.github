@@ -76,9 +76,9 @@ DNA Academy programs combine three main components:
 
 ---
 
-## Türkçe {#türkçe}
+## Türkçe
 
-### DNA Academy nedir?
+### DNA Academy nedir? {#türkçe}
 
 **DNA Academy**, **NARDO Biyoteknoloji** (Samsun, Türkiye) tarafından hayata geçirilen  
 modüler bir **genomik & biyoinformatik öğrenme ekosistemidir.**
