@@ -152,7 +152,7 @@ DNA Academy modülleri üç ana bileşeni bir araya getirir:
 - 🌐 Web: **https://www.dnaacademy.com.tr**  
 - 🧬 Company / Şirket: **NARDO Biyoteknoloji** – https://www.nardobiotech.com  
 - 📧 E-mail / E-posta: **info@dnaacademy.com.tr**
-- 📧 E-mail / E-posta: **info@dnaacademy.com.tr** 
+- 📧 E-mail / E-posta: **dna-academy@nardobiotech.com** 
 
 - 📸 Instagram – [DNA Academy](https://www.instagram.com/dna.academy.tr)  
 - 💼 LinkedIn – [DNA Academy](https://www.linkedin.com/company/dnaacademy-tr/)  
